@@ -15,8 +15,7 @@
 
 ## Code Snippet 
 ```html
-    `
-    <h2>${topSongs[songIndex].name}</h2>
+    `<h2>${topSongs[songIndex].name}</h2>
     <p>Playcount: ${topSongs[songIndex].playCount}</h2>
     <button class="deleteButton--${songIndex}">Delete</button>
     <button class="updateButton--${songIndex}">Update</button>
