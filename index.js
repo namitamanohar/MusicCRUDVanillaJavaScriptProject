@@ -74,7 +74,7 @@
   //for loop through the delete buttons using a for of loop
   //https://www.w3schools.com/js/js_loop_forof.asp
   
-    //add eventListener to each button
+    //add eventListener to each button with an anonymous function 
     
       //take the variable btn's property className and split at the value "deleteButton--" and set it to the variable buttonId
       
@@ -93,7 +93,7 @@
   //for loop through the update buttons using a for of loop
   //https://www.w3schools.com/js/js_loop_forof.asp
   
-    //add eventListener to each button
+    //add eventListener to each button with an anonymous function 
     
       //switch submit to updateSubmit button by doing the following
       //to the varialbe updateButton remove the classList "hidden"
