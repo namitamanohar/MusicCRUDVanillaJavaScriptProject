@@ -26,4 +26,4 @@
 
 ## Video of Exemplar Project
 
-![Static Template](https://user-images.githubusercontent.com/57641506/114063524-b541b300-9866-11eb-931e-5143ef604bea.gif)
+![Static Template]((https://user-images.githubusercontent.com/57641506/120527917-e511c080-c3a8-11eb-95c3-34dbf97ddd1f.gif)
