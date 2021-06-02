@@ -1,0 +1,36 @@
+.hidden {
+  display: none;
+}
+body {
+  font-family: sans-serif;
+}
+
+#form {
+  padding-top: 10px;
+  width: 100%;
+  border-radius: 3px;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#form > input {
+  line-height: 2em;
+}
+
+.header {
+  text-align: center;
+}
+
+.song-card {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
