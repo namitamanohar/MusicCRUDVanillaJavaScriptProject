@@ -13,6 +13,14 @@
 - https://www.w3schools.com/howto/howto_js_remove_class.asp
 - https://www.w3schools.com/howto/howto_js_add_class.asp
 
+## Code Snippet 
+`
+    <h2>${topSongs[songIndex].name}</h2>
+    <p>Playcount: ${topSongs[songIndex].playCount}</h2>
+    <button class="deleteButton--${songIndex}">Delete</button>
+    <button class="updateButton--${songIndex}">Update</button>
+    `;
+
 ## Instructions
 
 1. Clone this repo using codesandbox
