@@ -12,7 +12,7 @@
 
 //get the input element with class nameInput
 
-//get the input element with class ageInput and set it to the variable playCountInpu
+//get the input element with class ageInput and set it to the variable playCountInput
 
 //get the button element with id addSong and set it to the variable createButton
 
