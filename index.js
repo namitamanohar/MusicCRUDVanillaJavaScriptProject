@@ -114,13 +114,14 @@
   
 
 //call the renderData function
-;
+
 //create a function called updateSong
 
   //create an object variable called updatedSong and set the respective properties to the values from the nameInput and playCountInput variable
   
   //remove the one song to update which is at index updateSongIndex[1] by using the splice method and insert the updatedSong variable
-  
+  //https://www.w3schools.com/js/js_array_methods.asp
+
   //set value property of nameInput to an empty string
   
   //set the value property of playCountInput to an empty string
