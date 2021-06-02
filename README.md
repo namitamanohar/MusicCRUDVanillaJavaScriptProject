@@ -1,4 +1,4 @@
-# MusicCRUDVanillaJavaScriptProject
+# Music CRUD Vanilla JavaScript Project
 
 ## Student Instructions
 
